@@ -1,0 +1,2 @@
+# CppKatas
+Personal Kata Training
